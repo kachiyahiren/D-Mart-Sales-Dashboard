@@ -90,7 +90,7 @@ It provides both **high-level summaries** and **deep-dive analytics** to help st
 ## SHREENSHORT
 SALES DASHBOARD:https://github.com/kachiyahiren/D-Mart-Sales-Dashboard/blob/main/Sales%20Dashboard.png
 
-CUSTOMER DASHBOARD:
+CUSTOMER DASHBOARD:https://github.com/kachiyahiren/D-Mart-Sales-Dashboard/blob/main/Customer%20Dashboard.png
 
 ---
 
