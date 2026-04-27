@@ -87,6 +87,11 @@ It provides both **high-level summaries** and **deep-dive analytics** to help st
 
 - Relationships built for optimized filtering and time intelligence
 
+## SHREENSHORT
+SALES DASHBOARD:https://github.com/kachiyahiren/D-Mart-Sales-Dashboard/blob/main/Sales%20Dashboard.png
+
+CUSTOMER DASHBOARD:
+
 ---
 
 ## 🧮 Key DAX Measures
