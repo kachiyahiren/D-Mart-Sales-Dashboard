@@ -87,7 +87,7 @@ It provides both **high-level summaries** and **deep-dive analytics** to help st
 
 - Relationships built for optimized filtering and time intelligence
 
-## SHREENSHORT:
+## 📷 Dashboard Preview
 ![Sales Dashboard](https://github.com/kachiyahiren/D-Mart-Sales-Dashboard/blob/main/Sales%20Dashboard.png
 )
 
